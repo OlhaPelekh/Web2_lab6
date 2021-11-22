@@ -1,6 +1,6 @@
-app-header{
-    background-color: black;
-    color:white;
-    padding:10px 20px;
-    display:flex;
-   }
+app-header {
+  /* background-color: rgb(22, 80, 168); */
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0fS8XLpvlWhh1mGWCKty1chhVbmz4EGJ-xw&usqp=CAU"); 
+  color: rgb(12, 73, 153);
+  padding: 20px;
+}

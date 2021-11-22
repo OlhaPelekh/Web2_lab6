@@ -7,9 +7,7 @@ var schemaProduct=new mongoose.Schema({
  },
  price:{
  type:Number,
- required:true,
- min:0,
- max:999999
+ required:true
  }
  }, {versionKey:false})
 var Product=mongoose.model("Product",schemaProduct);
